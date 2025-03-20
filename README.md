@@ -35,3 +35,5 @@ About Me: Showcases my background, skills, and experience.
 Projects: Lists my top projects with links to their GitHub repositories.
 Contact: A form where visitors can enter their details and send a message.
 
+## Live Demo  
+🔗 [View My Portfolio](https://bonthushalini.github.io/portfolio-website/)
